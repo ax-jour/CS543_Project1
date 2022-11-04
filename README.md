@@ -1,6 +1,6 @@
 # Airline Delay and Cancellation Prediction #
 
-### CS543 Group 1 ###
+### Group 1 CS543 Fall2022 ###
 Xiang Ao (Netid: xa17, Leader), Rishika Bhanushali (Netid: rb1182), Chao Zhao (Netid: cz333)
 
 ### Project Dataset shared folder ###
