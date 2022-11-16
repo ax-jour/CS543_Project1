@@ -3,3 +3,4 @@ cs543_proj_1
 data
 spark-warehouse
 ./preprocess.*
+output
