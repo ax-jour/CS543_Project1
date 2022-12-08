@@ -5,3 +5,4 @@ spark-warehouse
 ./preprocess.*
 output
 __pycache__
+test.py
