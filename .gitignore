@@ -6,3 +6,4 @@ spark-warehouse
 output
 __pycache__
 test.py
+test.csv
